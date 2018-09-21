@@ -24,7 +24,7 @@ body {
     height: 75px;
     display: flex;
     justify-content: center;
-    align-items: center;    
+    align-items: center;
     margin-bottom: 22px;
 
 }
@@ -52,7 +52,8 @@ body {
 
 }
 
-.h1,.p {
+.h1,
+.p {
     color: #777;
     background: #ebebeb;
     width: 435px;
@@ -72,7 +73,7 @@ body {
 
 }
 
-.p{
+.p {
     margin-top: 7px;
 
 }
